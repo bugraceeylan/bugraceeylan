@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on flutter development
 - 🌱 I’m currently learning flutter,javascript.
 - 💬 Ask me about everything
-- - 📫 How to reach me: bugraceylan99@gmail.com
+- 📫 How to reach me: bugraceylan99@gmail.com
  
   - <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,5 +29,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/> 
+  </a>
+ <a href="https://gmod.facepunch.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Garry%27s_Mod_logo.svg" alt="gmodaddon" width="40" height="40"/> 
   </a></p>
-- ⚡ Fun fact: ...
