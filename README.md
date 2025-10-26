@@ -1,14 +1,9 @@
 ### Hi there 👋
 
 
-I'm Buğra Ceylan. I'm a Flutter Developer. Love coding and i'm improving my skills every day. 
+Flutter Developer. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on flutter development
-- 🌱 I’m currently learning flutter,javascript.
-- 💬 Ask me about everything
-- 📫 How to reach me: bugraceylan99@gmail.com
+-  bugraceylan99@gmail.com
  
   - <h3 align="left">Connect with me:</h3>
 <p align="left">
